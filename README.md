@@ -7,10 +7,11 @@ mpia = {
     "civilité": "Mr",
     "prénom": "Mpia",
     "technos": {
-        "back": ["Python", "SQL"],
+        "back": ["Python", "Flask", "Django", "SQL"],
         "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "HTMX"]
     },
-    "outils": ["Linux", "Git", "Docker"]
+    "outils": ["Git", "Docker", "Latex"],
+    "os": ["Linux", "MacOS", "Windows"]
 }
 ~~~
 
