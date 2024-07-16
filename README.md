@@ -1,5 +1,7 @@
 # Hi, Je suis Mpia 👋
 
+[![codewithmpia](https://img.shields.io/github/followers/codewithmpia?label=follow&style=social)](https://github.com/codewithmpia)
+
 ### Mpia en quelque mots: 
 
 ~~~python
