@@ -1,16 +1,27 @@
-# Hi, Je suis Mpia 👋
+# Hi, je suis Mpia M. 👋
+
+
 
 ~~~python
-mpia = {
-    "civilité": "Mr",
-    "prénom": "Mpia",
-    "technos": {
-        "back": ["Python", "Flask", "Django", "SQL"],
-        "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "HTMX"]
-    },
-    "outils": ["Git", "Docker", "Latex"],
-    "os": ["Linux", "MacOS", "Windows"]
-}
+class AboutMe:
+    def __init__(self):
+        self.identity = {
+            "civilité": "M",
+            "prénom": "Mpia",
+            "localisation": "France"
+        }
+        self.skills = {
+            "back": ["Python", "Flask", "Django", "SQL"],
+            "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "HTMX"],
+            "outils": ["Git", "Docker", "Latex"],
+            "os": ["Linux", "MacOS", "Windows"]
+        }
+
+    def get_identity(self):
+        return self.identity
+
+    def get_skills(self):
+        return self.skills
 ~~~
 
 
