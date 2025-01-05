@@ -16,8 +16,8 @@ class AboutMe:
             "localisation": "France"
         }
         self.skills = {
-            "back": ["Python", "Flask", "Django", "SQL"],
-            "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "HTMX"],
+            "back": ["Python", "Flask", "Django", "SQL (Mysql & Postgresql)"],
+            "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "Alpinejs", "HTMX"],
             "outils": ["Git", "Docker", "Latex"],
             "os": ["Linux", "MacOS", "Windows"]
         }
