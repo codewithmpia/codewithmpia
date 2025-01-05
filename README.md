@@ -20,7 +20,7 @@ class AboutMe:
             "frameworks": ["Django", "Flask", "Vue", "Alpine.js", "HTMX"],
             "technologies": {
                 "back-end": ["Flask", "Django", "MySQL & PostgreSQL"],
-                "front-end": ["HTML", "CSS", "TailwindCSS", "Bootstrap", "JS", "Vue", "Alpine.js", "HTMX"]
+                "front-end": ["HTML", "CSS", "TailwindCSS", "Bootstrap", "Vue", "Alpine.js", "HTMX"]
             },
             "tools": ["Git", "Docker", "LaTeX"],
             "os": ["Linux", "MacOS", "Windows"]
