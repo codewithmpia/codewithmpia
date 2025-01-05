@@ -11,14 +11,18 @@
 class AboutMe:
     def __init__(self):
         self.identity = {
-            "civilité": "M",
-            "prénom": "Mpia",
-            "localisation": "France"
+            "title": "Mr.",
+            "name": "Mpia M.",
+            "location": "France"
         }
         self.skills = {
-            "back": ["Python", "Flask", "Django", "SQL (Mysql & Postgresql)"],
-            "front": ["HTML", "CSS", "Tailwindcss", "JS", "Vue", "Alpinejs", "HTMX"],
-            "outils": ["Git", "Docker", "Latex"],
+            "languages": ["C", "Python", "JavaScript", "SQL"],
+            "frameworks": ["Django", "Flask", "Vue", "Alpine.js", "HTMX"],
+            "technologies": {
+                "back-end": ["Flask", "Django", "MySQL & PostgreSQL"],
+                "front-end": ["HTML", "CSS", "TailwindCSS", "Bootstrap", "JS", "Vue", "Alpine.js", "HTMX"]
+            },
+            "tools": ["Git", "Docker", "LaTeX"],
             "os": ["Linux", "MacOS", "Windows"]
         }
 
@@ -27,6 +31,11 @@ class AboutMe:
 
     def get_skills(self):
         return self.skills
+
+if __name__ == "__main__":
+    about_me = AboutMe()
+    print("Identity:", about_me.get_identity())
+    print("Skills:", about_me.get_skills())
 ~~~
 
 ### Je suis également dispo ici:
