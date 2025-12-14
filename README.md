@@ -6,12 +6,12 @@
 
 ## 👨‍💻 À propos de moi
 
-Étudiant en L3 Informatique et développeur Fullstack passionné par la création d'expériences web modernes, performantes et accessibles. Spécialisé dans l'écosystème JavaScript et Python, avec une forte expertise en architecture web et déploiement production.
+Étudiant en L3 Informatique passionné par la création d'expériences web et mobiles, performantes et accessibles. 
 
 🌐 **Portfolio & Blog:** [codewithmpia.com](https://codewithmpia.com)
 📍 **Localisation:** France
 🎓 **Formation:** Licence 3 Informatique
-💼 **Statut:** Ouvert aux stages, alternances et collaborations
+
 
 ```python
 class DeveloperProfile:
@@ -40,11 +40,9 @@ class DeveloperProfile:
             "devops": {
                 "servers": ["Nginx", "Gunicorn"],
                 "containers": ["Docker"],
-                "os": ["Linux (Rocky/CentOS)", "MacOS", "Windows"],
-                "ssl": ["Let's Encrypt", "Certbot"],
-                "monitoring": ["systemd", "journalctl"]
+                "os": ["Linux", "MacOS", "Windows"]
             },
-            "tools": ["Git", "npm", "pip", "LaTeX", "SEO Tools"]
+            "tools": ["Git", "npm", "pip", "LaTeX"]
         }
 
         self.focus_areas = [
@@ -84,7 +82,6 @@ Plateforme de blog et portfolio moderne avec administration complète.
 
 **Liens:**
 - 🌐 [Site en production](https://codewithmpia.com)
-- 📂 [Code source](https://github.com/codewithmpia/codewithmpia) *(si public)*
 
 ---
 
@@ -148,9 +145,3 @@ Plateforme de blog et portfolio moderne avec administration complète.
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/codewithmpia)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithmpia)
 
----
-
-🎓 **Étudiant en Licence 3 Informatique**
-💡 **Actuellement :** Développement de solutions web modernes et performantes
-🤝 **Recherche :** Stage de fin d'études, alternance, ou opportunités de collaboration
-📚 **En apprentissage continu :** WebAssembly, Edge Computing, techniques SEO avancées
