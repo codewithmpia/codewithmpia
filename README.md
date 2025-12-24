@@ -74,14 +74,44 @@ Plateforme de blog et portfolio moderne avec administration complète.
   - 📧 Newsletter intégrée
   - 🔒 Authentification sécurisée (Argon2)
 
-**Déploiement:**
-- Nginx reverse proxy avec Brotli/Gzip
-- Certificats SSL Let's Encrypt
-- Services systemd pour haute disponibilité
-- Configuration SELinux pour sécurité renforcée
+
+### [EcoTrace](https://ecotrace.codewithmpia.com) - Environmental Impact Tracker
+
+Application web de suivi et d'analyse de l'impact environnemental personnel.
+
+**Stack Technique:**
+- **Frontend:** SvelteKit, Tailwind CSS
+- **Backend:** Drizzle ORM, PostgreSQL
+- **UI:** Lucide icons
+
+**Features:**
+- 📊 Tableaux de bord analytiques
+- 🌱 Ajout d'activités
+- 📈 Historiques détaillés
+- 🎯 Recommandations personnalisées
 
 **Liens:**
-- 🌐 [Site en production](https://codewithmpia.com)
+- 🌐 [Site en production](https://ecotrace.codewithmpia.com)
+
+---
+
+### [NetMonitor](https://github.com/codewithmpia/netmonitor_public) - Network Monitoring Tool
+
+Outil de surveillance réseau pour analyser et visualiser les performances des connexions.
+
+**Stack Technique:**
+- **Frontend:** JS, Tailwind CSS
+- **Backend:** Python, Flask
+
+**Features:**
+- 📊 Visualisation en temps réel des performances réseau
+- 🔔 Alertes personnalisables pour les interruptions de service
+- 📈 Rapports détaillés sur l'utilisation du réseau
+- 🌐 Interface utilisateur intuitive et réactive
+
+**Liens:**
+- 🌐 [Documentation](https://github.com/codewithmpia/netmonitor_public#readme)
+- 🌐 [Voir le code source](https://github.com/codewithmpia/netmonitor_public)
 
 ---
 
