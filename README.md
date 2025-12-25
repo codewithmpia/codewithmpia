@@ -15,6 +15,9 @@
   </p>
 </div>
 
+| <img src="https://github-readme-stats.vercel.app/api?username=codewithmpia&show_icons=true&theme=default&hide_border=true&bg_color=transparent&hide_title=true&count_private=true" height="150" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmpia&layout=compact&theme=default&hide_border=true&bg_color=transparent&hide_title=true" height="150" alt="languages graph" /> |
+| :---: | :---: |
+
 ---
 
 ### 👨‍💻 Identity
@@ -31,36 +34,9 @@ class Developer:
 
 ### 🛠 Tech Stack
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="33.33%">Frontend & Mobile</th>
-      <th align="center" width="33.33%">Backend</th>
-      <th align="right" width="33.33%">DevOps & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" valign="top">
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" width="110" alt="Svelte" /><br>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="110" alt="Tailwind" /><br>
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" width="110" alt="Vue" /><br>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="110" alt="Flutter" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="110" alt="Django" /><br>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="110" alt="Flask" /><br>
-        <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="110" alt="Postgres" />
-      </td>
-      <td align="right" valign="top">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="110" alt="Docker" /><br>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="110" alt="Nginx" /><br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" alt="Linux" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Frontend & Mobile | Backend | DevOps & Tools |
+| :--- | :---: | ---: |
+| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) <br> ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
@@ -89,25 +65,9 @@ class Developer:
 
 ### 📦 Open Source Contributions (Flask Extensions)
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">Package</th>
-      <th align="left" width="70%">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://pypi.org/project/Flask-Vue3/"><strong>Flask-Vue3</strong></a></td>
-      <td>Complete Vue 3 + Vite integration for Flask</td>
-    </tr>
-    <tr>
-      <td><a href="https://pypi.org/project/flask-ultime/"><strong>Flask Ultime</strong></a></td>
-      <td>Rapid TailwindCSS + Alpine.js setup for Flask</td>
-    </tr>
-    <tr>
-      <td><a href="https://pypi.org/project/flask-pocket/"><strong>Flask Pocket</strong></a></td>
-      <td>Lightweight backend with PocketBase</td>
-    </tr>
-  </tbody>
-</table>
+| Package | Description | Downloads | Link |
+|:---|:---|:---:|:---:|
+| [**Flask-Vue3**](https://pypi.org/project/Flask-Vue3/) | Complete Vue 3 + Vite integration for Flask | ![Downloads](https://img.shields.io/pypi/dm/Flask-Vue3?style=flat-square) | [PyPI](https://pypi.org/project/Flask-Vue3/) |
+| [**Flask Ultime**](https://pypi.org/project/flask-ultime/) | Rapid TailwindCSS + Alpine.js setup for Flask | ![Downloads](https://img.shields.io/pypi/dm/flask-ultime?style=flat-square) | [PyPI](https://pypi.org/project/flask-ultime/) |
+| [**Flask Pocket**](https://pypi.org/project/flask-pocket/) | Lightweight backend with PocketBase | ![Downloads](https://img.shields.io/pypi/dm/flask-pocket?style=flat-square) | [PyPI](https://pypi.org/project/flask-pocket/) |
+| [**FlaskTranscrypt**](https://pypi.org/project/flask-transcrypt/) | Auto Python → JS transpilation with Transcrypt | ![Downloads](https://img.shields.io/pypi/dm/flask-transcrypt?style=flat-square) | [PyPI](https://pypi.org/project/flask-transcrypt/) |
