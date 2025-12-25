@@ -85,11 +85,24 @@ class Developer:
 
 ### 📦 Open Source Contributions (Flask Extensions)
 
-| Package | Description |
-|:---|:---|
-| [**Flask-Vue3**](https://pypi.org/project/Flask-Vue3/) | Complete Vue 3 + Vite integration for Flask |
-| [**Flask Ultime**](https://pypi.org/project/flask-ultime/) | Rapid TailwindCSS + Alpine.js setup for Flask |
-| [**Flask Pocket**](https://pypi.org/project/flask-pocket/) | Lightweight backend with PocketBase |
+<table width="100%">
+  <tr>
+    <th align="left" width="30%">Package</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://pypi.org/project/Flask-Vue3/"><strong>Flask-Vue3</strong></a></td>
+    <td>Complete Vue 3 + Vite integration for Flask</td>
+  </tr>
+  <tr>
+    <td><a href="https://pypi.org/project/flask-ultime/"><strong>Flask Ultime</strong></a></td>
+    <td>Rapid TailwindCSS + Alpine.js setup for Flask</td>
+  </tr>
+  <tr>
+    <td><a href="https://pypi.org/project/flask-pocket/"><strong>Flask Pocket</strong></a></td>
+    <td>Lightweight backend with PocketBase</td>
+  </tr>
+</table>
 
 <br>
 
