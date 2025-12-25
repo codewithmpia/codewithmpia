@@ -45,6 +45,10 @@ class Developer:
 > ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square)
 >
 > *Multilingual (FR/EN), Advanced SEO, Newsletter, Nested Comments.*
+>
+> *Link: [https://codewithmpia.com](https://codewithmpia.com)*
+
+
 
 #### 🌱 [EcoTrace](https://ecotrace.codewithmpia.com)
 > **Personal environmental impact tracker.**
@@ -52,11 +56,20 @@ class Developer:
 > ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square) ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logoColor=black)
 >
 > *Analytics Dashboard, Activity History, Recommendations.*
+>
+> *Link: [https://ecotrace.codewithmpia.com](https://ecotrace.codewithmpia.com)*
+>
+> *Source: [https://github.com/codewithmpia/ecotrace_public](https://github.com/codewithmpia/ecotrace_public)*
+
+
 
 #### 📡 [NetMonitor](https://github.com/codewithmpia/netmonitor_public)
 > **Real-time network monitoring tool.**
 >
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black)
+>
+> *Source: [https://github.com/codewithmpia/netmonitor_public](https://github.com/codewithmpia/netmonitor_public)*
+
 
 ---
 
