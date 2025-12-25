@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
   <h1>Hi, I'm Mpia M.</h1>
   <p><b>Fullstack Developer</b> • <b>Computer Science Student (L3)</b> • <b>Open Source Enthusiast</b></p>
   
@@ -32,30 +32,34 @@ class Developer:
 ### 🛠 Tech Stack
 
 <table width="100%">
-  <tr>
-    <td align="left" width="33%"><strong>Frontend & Mobile</strong></td>
-    <td align="center" width="33%"><strong>Backend</strong></td>
-    <td align="right" width="33%"><strong>DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" width="110" alt="Svelte" /><br>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="110" alt="Tailwind" /><br>
-      <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" width="110" alt="Vue" /><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="110" alt="Flutter" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="110" alt="Django" /><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="110" alt="Flask" /><br>
-      <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="110" alt="Postgres" />
-    </td>
-    <td align="right" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="110" alt="Docker" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="110" alt="Nginx" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" alt="Linux" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="33%">Frontend & Mobile</th>
+      <th align="center" width="33%">Backend</th>
+      <th align="right" width="33%">DevOps & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" width="110" alt="Svelte" /><br>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="110" alt="Tailwind" /><br>
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" width="110" alt="Vue" /><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="110" alt="Flutter" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110" alt="Python" /><br>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="110" alt="Django" /><br>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="110" alt="Flask" /><br>
+        <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="110" alt="Postgres" />
+      </td>
+      <td align="right" valign="top">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="110" alt="Docker" /><br>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="110" alt="Nginx" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" alt="Linux" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -106,7 +110,13 @@ class Developer:
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithmpia&show_icons=true&theme=default&hide_border=true&bg_color=transparent&hide_title=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmpia&layout=compact&theme=default&hide_border=true&bg_color=transparent&hide_title=true" height="150" alt="languages graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=codewithmpia&show_icons=true&theme=default&hide_border=true&bg_color=transparent&hide_title=true&count_private=true" height="150" alt="stats graph" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmpia&layout=compact&theme=default&hide_border=true&bg_color=transparent&hide_title=true" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
