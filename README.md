@@ -22,7 +22,6 @@
 ```python
 class Developer:
     name = "Mpia M."
-    location = "France 🇫🇷"
     role = "Student & Fullstack Dev"
     
     current_stack = ["SvelteKit", "Vue", "Django", "Flask", "PostgreSQL", "Tailwind", "Flutter"]
