@@ -23,7 +23,6 @@
 class Developer:
     name = "Mpia M."
     role = "Student & Fullstack Dev"
-    
     current_stack = ["SvelteKit", "Vue", "Django", "Flask", "PostgreSQL", "Tailwind", "Flutter"]
     focus = ["Performance", "DevOps", "Green IT"]
 ```
